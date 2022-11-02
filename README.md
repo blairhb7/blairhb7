@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Blair chappell
-- 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+    
+
+![bc1](https://user-images.githubusercontent.com/88805312/199561477-93a7e0ec-f1b3-43bd-bb37-cf450f8d1844.png)
+
+
+- BC Feel free to checkout my [portfolio]([url](https://blairchappell.vercel.app/)) website!
+- 🏢 Software Engineer (Front End) Bay Area, CA
+- 🧰 I build with: React TypeScript, JavaScript, Next.js, React Native, CSS, Tailwind ...
+- ⚡ I enjoy Videography, Sports, Music, and Backpacking! :)
+- 📫 Reach out to me: Blairhb7@yahoo.com
 
 <!---
 blairhb7/blairhb7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
