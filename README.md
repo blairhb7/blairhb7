@@ -13,9 +13,9 @@
 </a>  
 </div>  
 
-
-![bc1](https://user-images.githubusercontent.com/88805312/199647675-4ffdeb7b-874a-44e0-9cd8-cb5d2a693297.png)
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/88805312/199845115-cf69e08b-5920-426c-a7ac-de39b1aa8a44.png" >
+</div>
 
 
 - 🖱️Feel free to checkout my [portfolio](https://blairchappell.vercel.app/) website!
