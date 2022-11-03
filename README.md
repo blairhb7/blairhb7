@@ -1,9 +1,17 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/blairhb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blairhb7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/blair chappell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blair chappell" height="30" width="40" /></a>
-<a href="/https://blairchappell.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blairchappell.vercel.app/" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a href="[https://github.com/rishavanand](https://github.com/blairhb7/blairhb7)" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="[https://twitter.com/iamrishavanand](https://twitter.com/Blairhb7)" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="[https://dev.to/blairchappell](https://blairchappell.vercel.app/)" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="[https://linkedin.com/in/rishavanand](https://www.linkedin.com/in/blair-chappell-23818420a/)" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
 ![bc1](https://user-images.githubusercontent.com/88805312/199647675-4ffdeb7b-874a-44e0-9cd8-cb5d2a693297.png)
