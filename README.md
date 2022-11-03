@@ -1,6 +1,6 @@
 
+![bc1](https://user-images.githubusercontent.com/88805312/199647675-4ffdeb7b-874a-44e0-9cd8-cb5d2a693297.png)
 
-![bc1(https://user-images.githubusercontent.com/88805312/199561477-93a7e0ec-f1b3-43bd-bb37-cf450f8d1844.png)](https://blairchappell.vercel.app/)
 
 
 - 🖱️Feel free to checkout my [portfolio](https://blairchappell.vercel.app/) website!
