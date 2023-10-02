@@ -14,7 +14,7 @@
 </div>  
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/88805312/Black Flatlay Photo Motivational Finance Quote Facebook Cover.png" >
+<img src="https://film-duo.vercel.app/GitHub%20Banner.png" >
 </div>
 
 
