@@ -18,7 +18,7 @@
 </div>
 
 
-- 🖱️Feel free to checkout my [portfolio](https://blairchappell.vercel.app/) website!
+- 🖱️Feel free to checkout my [portfolio](https://blairchappell.site/) website!
 - 🏢 Software Engineer (Front End) Bay Area, CA
 - 🧰 I build with: React TypeScript, JavaScript, Next.js, React Native, CSS, Tailwind ...
 - ⚡ I enjoy Videography, Sports, Music, and Backpacking! :)
