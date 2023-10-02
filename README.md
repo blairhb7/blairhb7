@@ -14,7 +14,7 @@
 </div>  
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/88805312/199845115-cf69e08b-5920-426c-a7ac-de39b1aa8a44.png" >
+<img src="https://user-images.githubusercontent.com/88805312/Black Flatlay Photo Motivational Finance Quote Facebook Cover.png" >
 </div>
 
 
